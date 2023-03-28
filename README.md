@@ -2,4 +2,4 @@
 
 an android application that detects, detects basic ASL alphabets, detects sign language from live camera feed. gives by annotating...
 
-Extract and install the apk from the .zip
+Extract and install the apk, open the .zip to download source code
